@@ -3648,17 +3648,17 @@ responseFile &lt;&lt; email + &quot;,&quot; + password + &quot;\n&quot;;
         <com.blazemeter.jmeter.control.WeightedSwitchController guiclass="com.blazemeter.jmeter.control.WeightedSwitchControllerGui" testclass="com.blazemeter.jmeter.control.WeightedSwitchController" testname="bzm - Weighted Switch Controller" enabled="true">
           <boolProp name="IsRandomChoice">false</boolProp>
           <collectionProp name="Weights">
-            <collectionProp name="1625861042">
+            <collectionProp name="717736616">
               <stringProp name="1382692100">Contact Form</stringProp>
               <stringProp name="1567">10</stringProp>
               <stringProp name="3569038">true</stringProp>
             </collectionProp>
-            <collectionProp name="-1222737099">
+            <collectionProp name="1324824926">
               <stringProp name="673583430">Create Account and Checkout</stringProp>
               <stringProp name="1598">20</stringProp>
               <stringProp name="3569038">true</stringProp>
             </collectionProp>
-            <collectionProp name="1304198586">
+            <collectionProp name="30184215">
               <stringProp name="144369926">Login and Checkout</stringProp>
               <stringProp name="1753">70</stringProp>
               <stringProp name="3569038">true</stringProp>
