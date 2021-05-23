@@ -9,7 +9,7 @@ Create Account and Checkout<br />
 Login and Checkout<br />
 <br />
 <br />
-<up>Dependencies</ul><br />
+<ul>Dependencies</ul><br />
 Random CSV Data Set - jmeter-plugins-random-csv-data-set-0.7.jar<br />
 Weighted Switch Controller - jmeter-plugins-wsc-0.7.jar<br />
 <br />
