@@ -4,9 +4,9 @@ This is a Apache JMeter Script created to Performance Test the automationpractic
 <br />
 <br />
 The script is built to execute three scenarios :-<br />
-Contact Form<br />
-Create Account and Checkout<br />
-Login and Checkout<br />
+1. Contact Form<br />
+2. Create Account and Checkout<br />
+3. Login and Checkout<br />
 <br />
 <br />
 Dependencies<br />
