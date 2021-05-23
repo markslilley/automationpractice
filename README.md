@@ -9,9 +9,10 @@ The script is built to execute three scenarios :-<br />
 3. Login and Checkout<br />
 <br />
 <br />
-Dependencies<br />
-1. Random CSV Data Set - jmeter-plugins-random-csv-data-set-0.7.jar<br />
-2. Weighted Switch Controller - jmeter-plugins-wsc-0.7.jar<br />
+Dependencies :-<br />
+
+- Random CSV Data Set - jmeter-plugins-random-csv-data-set-0.7.jar<br />
+- Weighted Switch Controller - jmeter-plugins-wsc-0.7.jar<br />
 <br />
 <br />
 Example CLI command for execution<br />
